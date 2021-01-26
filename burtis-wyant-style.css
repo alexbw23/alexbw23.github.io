@@ -1,0 +1,51 @@
+     /* 
+            ###My Color Palette###
+            blueviolet
+            palegreen
+            blue
+    */
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300&display=swap');
+            body{
+                color: blueviolet;
+                background-color: palegreen;
+                
+            } 
+            
+            h1, h2{
+                color: blue;
+                background-color: skyblue;
+                border-radius: 12px;
+                padding: 8px;
+                border: 5px double navy;
+                }
+                    
+                h3, h4{
+                color: blue;
+                 background-color: palegreen;   
+                }
+                
+                h1{
+                 font-family: 'Anton', sans-serif;   
+                }
+
+                h2, h4 {
+                font-family: 'Dosis', sans-serif;    
+                }
+
+                p{ 
+                font-family: 'Teko', sans-serif;    
+                }
+
+                ul {
+                color:blue;
+                font-family: 'Dosis', sans-serif;   
+                }
+
+                .center {
+                margin: auto;
+                width: 50%;
+                }
+            
