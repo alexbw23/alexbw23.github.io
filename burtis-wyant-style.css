@@ -48,4 +48,10 @@
                 margin: auto;
                 width: 50%;
                 }
+
+                table, th, td {
+                 border: 2px double blueviolet;
+                 /*border-collapse: collapse;*/
+                    
+                }
             
