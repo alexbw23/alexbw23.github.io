@@ -51,6 +51,7 @@
 
                 table, th, td {
                  border: 2px double blueviolet;
+                padding: 5px
                  /*border-collapse: collapse;*/
                     
                 }
