@@ -51,12 +51,19 @@
 
                 table, th, td {
                  border: 2px double blueviolet;
-                padding: 5px
                  /*border-collapse: collapse;*/
                     
                 }
 
                 th, td { 
-                
+                padding: 5px;
+                }
+        
+                tr:nth-child(even){background: springgreen} 
+                tr:nth-child(odd){background: deepskyblue}
+                tr:hover {background: skyblue}
+
+                th {
+                background-color: skyblue
                 }
             
